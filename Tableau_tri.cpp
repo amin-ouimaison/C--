@@ -258,5 +258,3 @@ int main(){
     cout<<e<<endl;
     return 0 ;
 }
-
-// rappelle une petite erreur concernant l'utilisation de frequence dans getRepetition
